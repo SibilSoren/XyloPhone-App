@@ -1,6 +1,6 @@
-# xylophone
+# Xylophone App
 
-A new Flutter application.
+![alt text](https://github.com/SibilSoren/XyloPhone-App/blob/master/AppScreenshot.png)
 
 ## Getting Started
 
